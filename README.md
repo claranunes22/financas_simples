@@ -86,7 +86,7 @@ python main.py
 
 ## 📚 Autor
 
-Flávia Augusta  
-Projeto individual – Disciplina de Orientação a Objetos  
+Clara dos Santos Oliveira Nunes  
+Projeto Livre – Disciplina de Orientação a Objetos  
 Faculdade UnB Gama – 2025
 
