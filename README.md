@@ -3,7 +3,7 @@
 **Finanças Simples** é Aplicativo de controle financeiro pessoal com interface em Python. Projeto da disciplina de Orientação a Objetos – UnB Gama.
 ---
 
-## ✅ Casos de Uso
+##  Casos de Uso
 
 1. **Cadastrar nova transação (receita ou despesa)**
 2. **Visualizar saldo atual**
@@ -14,7 +14,7 @@
 
 ---
 
-## 📦 Estrutura de Arquivos
+##  Estrutura de Arquivos
 
 ```
 financas_simples/
@@ -35,7 +35,7 @@ financas_simples/
 
 ---
 
-## 🧠 Conceitos de POO Aplicados
+##  Conceitos de POO Aplicados
 
 - ✔ **Encapsulamento:** todas as classes com atributos e métodos organizados.
 - ✔ **Herança:** `Receita` e `Despesa` herdam de `Transacao`.
@@ -46,7 +46,7 @@ financas_simples/
 
 ---
 
-## 💻 Tecnologias
+##  Tecnologias
 
 - Python 3.10+
 - Tkinter (interface gráfica)
@@ -55,7 +55,7 @@ financas_simples/
 
 ---
 
-## ▶️ Como Executar
+##  Como Executar
 
 1. Certifique-se de ter Python 3 instalado.
 2. Instale a biblioteca `matplotlib` com o comando:
@@ -72,7 +72,7 @@ python main.py
 
 ---
 
-## 📈 Funcionalidades Visuais
+##  Funcionalidades Visuais
 
 - Interface com título, saldo e meta atual
 - Botões para:
@@ -84,7 +84,7 @@ python main.py
 
 ---
 
-## 📚 Autor
+##  Autor
 
 Clara dos Santos Oliveira Nunes  
 Projeto Livre – Disciplina de Orientação a Objetos  
