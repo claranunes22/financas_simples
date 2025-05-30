@@ -1,9 +1,6 @@
 # Finanças Simples
 
-**Finanças Simples** é um aplicativo desktop para controle financeiro pessoal. Desenvolvido em Python com orientação a objetos, o sistema permite registrar receitas e despesas, acompanhar saldo, definir metas mensais e visualizar gráficos de categoria.
-
-Projeto desenvolvido individualmente por Flávia Augusta para a disciplina de **Orientação a Objetos – UnB Gama**, semestre 01/2025.
-
+**Finanças Simples** é Aplicativo de controle financeiro pessoal com interface em Python. Projeto da disciplina de Orientação a Objetos – UnB Gama.
 ---
 
 ## ✅ Casos de Uso
